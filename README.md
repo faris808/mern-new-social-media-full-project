@@ -1,6 +1,6 @@
 # Project Overview
 
-This repository provides an overview of my project, linking to the separate repositories for the frontend and backend code.
+This repository provides an overview of my social media project, linking to the separate repositories for the frontend and backend code.
 
 ## Repositories
 
